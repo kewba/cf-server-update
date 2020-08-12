@@ -23,18 +23,7 @@
                 your laptop or desktop. This cheat sheet summarizes commonly used Git command line
                 instructions for quick reference.
             </p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
-            <p> I declare I have something more to add.</p>
+    
         </div>
         <script   src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>
         
