@@ -23,7 +23,7 @@
                 your laptop or desktop. This cheat sheet summarizes commonly used Git command line
                 instructions for quick reference.
             </p>
-            <p> I declare I have something more to add.</p>
+            <p> I declare I have something more to add.hvkyhjvh</p>
             <p> I declare I have something more to add.</p>
             <p> I declare I have something more to add.</p>
             <p> I declare I have something more to add.</p>
